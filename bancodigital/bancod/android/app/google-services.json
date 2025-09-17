@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219894648569",
+    "project_id": "banco-79e5a",
+    "storage_bucket": "banco-79e5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219894648569:android:66d26cc3234935a16f5c28",
+        "android_client_info": {
+          "package_name": "com.example.bancod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJIkQhAqjz1fWJcGGAU9s2Rv8MfQUMgdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
