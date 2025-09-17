@@ -134,6 +134,17 @@ Si deseas contribuir al proyecto:
    <img width="498" height="623" alt="image" src="https://github.com/user-attachments/assets/80b45771-fb34-4576-99e0-2138b1ba5de4" />
    <img width="492" height="624" alt="image" src="https://github.com/user-attachments/assets/3488f2cc-3e61-45f6-8f60-6a2b5fd22fca" />
    <img width="497" height="615" alt="image" src="https://github.com/user-attachments/assets/c19f2267-84b9-4165-9130-ac2133ee23ad" />
+   <img width="490" height="619" alt="image" src="https://github.com/user-attachments/assets/db734245-e9f9-4b69-9f45-ce389402e8ef" />
+   <img width="510" height="620" alt="image" src="https://github.com/user-attachments/assets/07564734-5359-49f9-8504-715709b50ad6" />
+
+   <img width="479" height="358" alt="image" src="https://github.com/user-attachments/assets/3625a953-eb48-4177-b11d-62cb57770423" />
+   <img width="500" height="644" alt="image" src="https://github.com/user-attachments/assets/cf93d61b-4d55-4616-9557-aa9c975c6074" />
+   <img width="489" height="622" alt="image" src="https://github.com/user-attachments/assets/07c40f88-8c83-4a1f-8eb4-d2a5895f7a3d" />
+
+
+
+
+
 
    <img width="490" height="616" alt="image" src="https://github.com/user-attachments/assets/b55cfaf3-6c18-4b17-9606-3503afa6e5f0" />
 
